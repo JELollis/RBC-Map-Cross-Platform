@@ -1,0 +1,261 @@
+2025-04-21 13:10:48,097 - INFO - Logging initialized. Logs will be written to logs/rbc_2025-04-21.log
+2025-04-21 13:10:48,097 - INFO - Launching app version 0.12.0
+2025-04-21 13:10:48,097 - DEBUG - Directory already exists: logs
+2025-04-21 13:10:48,097 - DEBUG - Directory already exists: sessions
+2025-04-21 13:10:48,097 - DEBUG - Directory already exists: images
+2025-04-21 13:10:48,098 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS banks
+2025-04-21 13:10:48,098 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS characters
+2025-04-21 13:10:48,098 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS coins
+2025-04-21 13:10:48,098 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS color_mappings
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS `columns`
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS cookies
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS css_profiles
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS custom_css
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS destinations
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS guilds
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS last_active_character
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS placesofinterest
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS powers
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS recent_destinations
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS `rows`
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS settings
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS shop_items
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS shops
+2025-04-21 13:10:48,099 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS taverns
+2025-04-21 13:10:48,100 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS transits
+2025-04-21 13:10:48,100 - DEBUG - Created table: CREATE TABLE IF NOT EXISTS userbuildings
+2025-04-21 13:10:48,108 - DEBUG - Inserted initial data into: settings
+2025-04-21 13:10:48,108 - DEBUG - Inserted initial data into: banks
+2025-04-21 13:10:48,117 - DEBUG - Inserted initial data into: color_mappings
+2025-04-21 13:10:48,118 - DEBUG - Inserted initial data into: `columns`
+2025-04-21 13:10:48,127 - DEBUG - Inserted initial data into: css_profiles
+2025-04-21 13:10:48,128 - DEBUG - Inserted initial data into: custom_css
+2025-04-21 13:10:48,128 - DEBUG - Inserted initial data into: guilds
+2025-04-21 13:10:48,128 - DEBUG - Inserted initial data into: placesofinterest
+2025-04-21 13:10:48,129 - DEBUG - Inserted initial data into: powers
+2025-04-21 13:10:48,129 - DEBUG - Inserted initial data into: `rows`
+2025-04-21 13:10:48,130 - DEBUG - Inserted initial data into: shop_items
+2025-04-21 13:10:48,130 - DEBUG - Inserted initial data into: shops
+2025-04-21 13:10:48,130 - DEBUG - Inserted initial data into: taverns
+2025-04-21 13:10:48,130 - DEBUG - Inserted initial data into: transits
+2025-04-21 13:10:48,130 - DEBUG - Inserted initial data into: userbuildings
+2025-04-21 13:10:48,131 - INFO - Database initialized successfully at sessions/rbc_map_data.db
+2025-04-21 13:10:48,132 - DEBUG - Skipping shop 'Ace Porn' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Checkers Porn Shop' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Dark Desires' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Discount Magic' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Discount Potions' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Discount Scrolls' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Hermans Scrolls' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Interesting Times' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'McPotions' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Paper and Scrolls' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Potable Potions' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Potion Distillery' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Potionworks' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Reversi Porn' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Scrollmania' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Scrolls n Stuff' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Scrolls R Us' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Scrollworks' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Silver Apothecary' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Sparks' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Spinners Porn' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'The Magic Box' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'The Potion Shoppe' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'White Light' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Skipping shop 'Ye Olde Scrolles' with 'NA' coordinates
+2025-04-21 13:10:48,133 - DEBUG - Loaded data from database successfully
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Ace Porn' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Checkers Porn Shop' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Dark Desires' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Discount Magic' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Discount Potions' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Discount Scrolls' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Hermans Scrolls' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Interesting Times' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'McPotions' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Paper and Scrolls' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Potable Potions' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Potion Distillery' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Potionworks' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Reversi Porn' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Scrollmania' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Scrolls n Stuff' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Scrolls R Us' with 'NA' coordinates
+2025-04-21 13:10:49,301 - DEBUG - Skipping shop 'Scrollworks' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'Silver Apothecary' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'Sparks' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'Spinners Porn' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'The Magic Box' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'The Potion Shoppe' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'White Light' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Skipping shop 'Ye Olde Scrolles' with 'NA' coordinates
+2025-04-21 13:10:49,302 - DEBUG - Loaded data from database successfully
+2025-04-21 13:10:49,302 - INFO - AVITDScraper initialized.
+2025-04-21 13:10:49,303 - DEBUG - Started scraper in background thread
+2025-04-21 13:10:49,305 - INFO - Starting to scrape guilds and shops.
+2025-04-21 13:10:49,305 - DEBUG - Theme settings loaded from DB and applied. Keys updated: []
+2025-04-21 13:10:49,308 - DEBUG - Theme applied to dialog
+2025-04-21 13:10:50,080 - DEBUG - Starting new HTTPS connection (1): aviewinthedark.net:443
+2025-04-21 13:10:50,097 - DEBUG - Loaded 1 cookies from database
+2025-04-21 13:10:50,097 - DEBUG - Cookie handling initialized
+2025-04-21 13:10:50,097 - DEBUG - Zoom level loaded from database: 3
+2025-04-21 13:10:50,101 - DEBUG - Loaded 7 characters from the database.
+2025-04-21 13:10:50,106 - DEBUG - Updated keybind menu: WASD=True, Arrows=False, Off=False
+2025-04-21 13:10:50,164 - DEBUG - Setting up keybindings: {<Key.Key_W: 87>: 1, <Key.Key_A: 65>: 3, <Key.Key_S: 83>: 7, <Key.Key_D: 68>: 5}
+2025-04-21 13:10:50,166 - DEBUG - Cleared 0 existing keybindings
+2025-04-21 13:10:50,166 - DEBUG - Bound key 87 to move index 1
+2025-04-21 13:10:50,167 - DEBUG - Bound key 65 to move index 3
+2025-04-21 13:10:50,167 - DEBUG - Bound key 83 to move index 7
+2025-04-21 13:10:50,167 - DEBUG - Bound key 68 to move index 5
+2025-04-21 13:10:50,298 - DEBUG - Drawing minimap with column_start=0, row_start=0, zoom_level=3, block_size=93
+2025-04-21 13:10:50,298 - DEBUG - Drawing grid cell at column_index=0, row_index=0, x0=0, y0=0
+2025-04-21 13:10:50,299 - DEBUG - Drawing grid cell at column_index=1, row_index=0, x0=93, y0=0
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=2, row_index=0, x0=186, y0=0
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=0, row_index=1, x0=0, y0=93
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=1, row_index=1, x0=93, y0=93
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=2, row_index=1, x0=186, y0=93
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=0, row_index=2, x0=0, y0=186
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=1, row_index=2, x0=93, y0=186
+2025-04-21 13:10:50,300 - DEBUG - Drawing grid cell at column_index=2, row_index=2, x0=186, y0=186
+2025-04-21 13:10:50,316 - DEBUG - Last active character loaded and selected: Map Thrall 4
+2025-04-21 13:10:50,316 - DEBUG - Setting up keybindings: {<Key.Key_W: 87>: 1, <Key.Key_A: 65>: 3, <Key.Key_S: 83>: 7, <Key.Key_D: 68>: 5}
+2025-04-21 13:10:50,317 - DEBUG - Cleared 4 existing keybindings
+2025-04-21 13:10:50,317 - DEBUG - Bound key 87 to move index 1
+2025-04-21 13:10:50,317 - DEBUG - Bound key 65 to move index 3
+2025-04-21 13:10:50,317 - DEBUG - Bound key 83 to move index 7
+2025-04-21 13:10:50,317 - DEBUG - Bound key 68 to move index 5
+2025-04-21 13:10:51,365 - INFO - Webpage loaded successfully.
+2025-04-21 13:10:51,367 - DEBUG - Logging in last active character.
+2025-04-21 13:10:51,367 - DEBUG - Logging in character: Map Thrall 4 with ID: 7
+2025-04-21 13:10:51,387 - DEBUG - https://aviewinthedark.net:443 "GET / HTTP/1.1" 200 4647
+2025-04-21 13:10:51,388 - DEBUG - Received response: 200
+2025-04-21 13:10:51,396 - DEBUG - Scraping section: the guilds
+2025-04-21 13:10:51,397 - DEBUG - First detected coordinate: x=None, y=None
+2025-04-21 13:10:51,397 - DEBUG - Last detected coordinate: x=None, y=None
+2025-04-21 13:10:51,397 - DEBUG - Safe Fallback: x=None, y=None
+2025-04-21 13:10:51,399 - INFO - Updated coins for character ID 7.
+2025-04-21 13:10:51,399 - DEBUG - HTML processed successfully for coordinates and coin count.
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Allurists Guild 1, Column: Cedar, Row: 69th
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Allurists Guild 2, Column: Nettle, Row: 34th
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Allurists Guild 3, Column: Steel, Row: 53rd
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Empaths Guild 1, Column: Ire, Row: 10th
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Empaths Guild 2, Column: Walrus, Row: 98th
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Empaths Guild 3, Column: Cobalt, Row: 80th
+2025-04-21 13:10:51,415 - DEBUG - Extracted data - Name: Immolators Guild 1, Column: Western City Limits, Row: 35th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Immolators Guild 2, Column: Malaise, Row: 73rd
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Immolators Guild 3, Column: Tapir, Row: 77th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Thieves Guild 1, Column: Haddock, Row: 48th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Thieves Guild 2, Column: Woe, Row: 36th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Thieves Guild 3, Column: Vauxite, Row: 56th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Travellers Guild 1, Column: Ivory, Row: 35th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Travellers Guild 2, Column: Quince, Row: 34th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Travellers Guild 3, Column: Lead, Row: 61st
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Peacekkeepers Mission 1, Column: Emerald, Row: 67th
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Peacekkeepers Mission 2, Column: Unicorn, Row: 33rd
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Peacekkeepers Mission 3, Column: Emerald, Row: 33rd
+2025-04-21 13:10:51,416 - INFO - Scraped 18 entries from the guilds.
+2025-04-21 13:10:51,416 - DEBUG - Scraping section: the shops
+2025-04-21 13:10:51,416 - DEBUG - Extracted data - Name: Spinners Porn, Column: Nervous, Row: 43rd
+2025-04-21 13:10:51,416 - INFO - Scraped 1 entries from the shops.
+2025-04-21 13:10:51,416 - DEBUG - Extracting next update time for section: Guilds
+2025-04-21 13:10:51,417 - DEBUG - Next update time for Guilds: 2025-04-22 20:00:03.417380
+2025-04-21 13:10:51,417 - DEBUG - Extracting next update time for section: Shops
+2025-04-21 13:10:51,417 - DEBUG - Next update time for Shops: 2025-04-21 18:40:03.417730
+2025-04-21 13:10:51,417 - INFO - Guilds Next Update: 2025-04-22 20:00:03
+2025-04-21 13:10:51,417 - INFO - Shops Next Update: 2025-04-21 18:40:03
+2025-04-21 13:10:51,417 - INFO - Guilds Data:
+2025-04-21 13:10:51,417 - INFO - Name: Allurists Guild 1, Column: Cedar, Row: 69th
+2025-04-21 13:10:51,417 - INFO - Name: Allurists Guild 2, Column: Nettle, Row: 34th
+2025-04-21 13:10:51,417 - INFO - Name: Allurists Guild 3, Column: Steel, Row: 53rd
+2025-04-21 13:10:51,417 - INFO - Name: Empaths Guild 1, Column: Ire, Row: 10th
+2025-04-21 13:10:51,417 - INFO - Name: Empaths Guild 2, Column: Walrus, Row: 98th
+2025-04-21 13:10:51,417 - INFO - Name: Empaths Guild 3, Column: Cobalt, Row: 80th
+2025-04-21 13:10:51,418 - INFO - Name: Immolators Guild 1, Column: Western City Limits, Row: 35th
+2025-04-21 13:10:51,418 - INFO - Name: Immolators Guild 2, Column: Malaise, Row: 73rd
+2025-04-21 13:10:51,418 - INFO - Name: Immolators Guild 3, Column: Tapir, Row: 77th
+2025-04-21 13:10:51,418 - INFO - Name: Thieves Guild 1, Column: Haddock, Row: 48th
+2025-04-21 13:10:51,418 - INFO - Name: Thieves Guild 2, Column: Woe, Row: 36th
+2025-04-21 13:10:51,418 - INFO - Name: Thieves Guild 3, Column: Vauxite, Row: 56th
+2025-04-21 13:10:51,418 - INFO - Name: Travellers Guild 1, Column: Ivory, Row: 35th
+2025-04-21 13:10:51,418 - INFO - Name: Travellers Guild 2, Column: Quince, Row: 34th
+2025-04-21 13:10:51,418 - INFO - Name: Travellers Guild 3, Column: Lead, Row: 61st
+2025-04-21 13:10:51,418 - INFO - Name: Peacekkeepers Mission 1, Column: Emerald, Row: 67th
+2025-04-21 13:10:51,418 - INFO - Name: Peacekkeepers Mission 2, Column: Unicorn, Row: 33rd
+2025-04-21 13:10:51,418 - INFO - Name: Peacekkeepers Mission 3, Column: Emerald, Row: 33rd
+2025-04-21 13:10:51,418 - INFO - Shops Data:
+2025-04-21 13:10:51,418 - INFO - Name: Spinners Porn, Column: Nervous, Row: 43rd
+2025-04-21 13:10:51,764 - INFO - Webpage loaded successfully.
+2025-04-21 13:10:51,766 - DEBUG - First detected coordinate: x=None, y=None
+2025-04-21 13:10:51,766 - DEBUG - Last detected coordinate: x=None, y=None
+2025-04-21 13:10:51,766 - DEBUG - Safe Fallback: x=None, y=None
+2025-04-21 13:10:51,766 - INFO - Updated coins for character ID 7.
+2025-04-21 13:10:51,766 - DEBUG - HTML processed successfully for coordinates and coin count.
+2025-04-21 13:10:52,509 - INFO - Webpage loaded successfully.
+2025-04-21 13:10:52,513 - DEBUG - First detected coordinate: x=198, y=198
+2025-04-21 13:10:52,513 - DEBUG - Last detected coordinate: x=199, y=199
+2025-04-21 13:10:52,513 - DEBUG - Found 5 city limit blocks.
+2025-04-21 13:10:52,513 - DEBUG - First detected coordinate: x=198, y=198
+2025-04-21 13:10:52,513 - DEBUG - Bottom-right corner detected: Zestless and 100th
+2025-04-21 13:10:52,513 - DEBUG - Set character coordinates to x=198, y=198
+2025-04-21 13:10:52,513 - DEBUG - Before recentering: character_x=198, character_y=198
+2025-04-21 13:10:52,513 - DEBUG - Zoom Level: 3
+2025-04-21 13:10:52,513 - DEBUG - Zoom Offset: -1
+2025-04-21 13:10:52,513 - DEBUG - Debug: char_y=198, row_start=0, zoom_offset=-1
+2025-04-21 13:10:52,513 - DEBUG - Clamping min: 197
+2025-04-21 13:10:52,513 - DEBUG - Recentered minimap: x=198, y=198, col_start=199, row_start=199
+2025-04-21 13:10:52,513 - DEBUG - Drawing minimap with column_start=199, row_start=199, zoom_level=3, block_size=93
+2025-04-21 13:10:52,513 - DEBUG - Drawing grid cell at column_index=199, row_index=199, x0=0, y0=0
+2025-04-21 13:10:52,513 - DEBUG - Drawing grid cell at column_index=200, row_index=199, x0=93, y0=0
+2025-04-21 13:10:52,513 - DEBUG - Drawing grid cell at column_index=201, row_index=199, x0=186, y0=0
+2025-04-21 13:10:52,513 - DEBUG - Drawing grid cell at column_index=199, row_index=200, x0=0, y0=93
+2025-04-21 13:10:52,513 - DEBUG - Drawing grid cell at column_index=200, row_index=200, x0=93, y0=93
+2025-04-21 13:10:52,514 - DEBUG - Drawing grid cell at column_index=201, row_index=200, x0=186, y0=93
+2025-04-21 13:10:52,514 - DEBUG - Drawing grid cell at column_index=199, row_index=201, x0=0, y0=186
+2025-04-21 13:10:52,514 - DEBUG - Drawing grid cell at column_index=200, row_index=201, x0=93, y0=186
+2025-04-21 13:10:52,514 - DEBUG - Drawing grid cell at column_index=201, row_index=201, x0=186, y0=186
+2025-04-21 13:10:52,528 - INFO - Updated coins for character ID 7.
+2025-04-21 13:10:52,528 - DEBUG - HTML processed successfully for coordinates and coin count.
+2025-04-21 13:10:54,257 - DEBUG - Selected character: Nesmuth
+2025-04-21 13:10:54,404 - DEBUG - Last active character set to character_id: 1
+2025-04-21 13:10:54,404 - DEBUG - Logging out current character.
+2025-04-21 13:10:54,764 - INFO - Webpage loaded successfully.
+2025-04-21 13:10:54,767 - DEBUG - First detected coordinate: x=None, y=None
+2025-04-21 13:10:54,767 - DEBUG - Last detected coordinate: x=None, y=None
+2025-04-21 13:10:54,767 - DEBUG - Safe Fallback: x=None, y=None
+2025-04-21 13:10:54,767 - INFO - Updated coins for character ID 1.
+2025-04-21 13:10:54,767 - DEBUG - HTML processed successfully for coordinates and coin count.
+2025-04-21 13:10:55,411 - DEBUG - Logging in character: Nesmuth with ID: 1
+2025-04-21 13:10:55,411 - DEBUG - Logging in character: Nesmuth with ID: 1
+2025-04-21 13:10:55,742 - INFO - Webpage loaded successfully.
+2025-04-21 13:10:55,744 - DEBUG - First detected coordinate: x=None, y=None
+2025-04-21 13:10:55,744 - DEBUG - Last detected coordinate: x=None, y=None
+2025-04-21 13:10:55,744 - DEBUG - Safe Fallback: x=None, y=None
+2025-04-21 13:10:55,744 - INFO - Updated coins for character ID 1.
+2025-04-21 13:10:55,744 - DEBUG - HTML processed successfully for coordinates and coin count.
+2025-04-21 13:10:56,106 - INFO - Webpage loaded successfully.
+2025-04-21 13:10:56,139 - DEBUG - First detected coordinate: x=99, y=0
+2025-04-21 13:10:56,139 - DEBUG - Last detected coordinate: x=101, y=1
+2025-04-21 13:10:56,139 - DEBUG - Found 3 city limit blocks.
+2025-04-21 13:10:56,139 - DEBUG - First detected coordinate: x=99, y=0
+2025-04-21 13:10:56,139 - DEBUG - Detected Northern City Limit at y=0
+2025-04-21 13:10:56,139 - DEBUG - Set character coordinates to x=99, y=-1
+2025-04-21 13:10:56,139 - DEBUG - Before recentering: character_x=99, character_y=-1
+2025-04-21 13:10:56,139 - DEBUG - Zoom Level: 3
+2025-04-21 13:10:56,139 - DEBUG - Zoom Offset: -1
+2025-04-21 13:10:56,139 - DEBUG - Debug: char_y=-1, row_start=199, zoom_offset=-1
+2025-04-21 13:10:56,139 - DEBUG - Clamping min: -2
+2025-04-21 13:10:56,139 - DEBUG - Recentered minimap: x=99, y=-1, col_start=100, row_start=0
+2025-04-21 13:10:56,140 - DEBUG - Drawing minimap with column_start=100, row_start=0, zoom_level=3, block_size=93
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=100, row_index=0, x0=0, y0=0
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=101, row_index=0, x0=93, y0=0
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=102, row_index=0, x0=186, y0=0
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=100, row_index=1, x0=0, y0=93
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=101, row_index=1, x0=93, y0=93
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=102, row_index=1, x0=186, y0=93
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=100, row_index=2, x0=0, y0=186
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=101, row_index=2, x0=93, y0=186
+2025-04-21 13:10:56,140 - DEBUG - Drawing grid cell at column_index=102, row_index=2, x0=186, y0=186
+2025-04-21 13:10:56,156 - INFO - Updated coins for character ID 1.
+2025-04-21 13:10:56,156 - DEBUG - HTML processed successfully for coordinates and coin count.
