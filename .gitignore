@@ -1,0 +1,38 @@
+# Logs and runtime data
+logs/
+sessions/
+screenshots/
+
+# IDE configurations
+.idea/
+.vs/
+.vs/*
+
+# Temporary or generated files
+*.yaml
+*.xlsx
+qodana.yaml
+
+# Distributions and build artifacts
+Distributions/
+Distributions/*
+
+# Database and test artifacts
+MySQL Dump/
+testing/*.sql
+testing/*.txt
+testing/secret.key
+testing/fernet_key.py
+testing/settings/
+
+# Python bytecode and caches
+__pycache__/
+"Version Control"/__pycache__/
+"Version Control"/__pycache__/variables.cpython-312.pyc
+
+# Version control related
+"Version Control"/logs/
+"Version Control"/sessions/
+
+# Miscellaneous
+Qonda/
